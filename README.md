@@ -1,5 +1,6 @@
 # Ex04 Places Around Me
 # Date:14/12/2025
+hassini
 reg:25013616
 # AIM
 To develop a website to display details about the places around my house.
@@ -43,7 +44,7 @@ map.html
 
 <body>
     <h1 style="text-align:center;">CHENNAI</h1>
-    <h3 style="text-align:center;">JOSHNA M (25011392)</h3>
+    <h3 style="text-align:center;">hassini M (25011392)</h3>
 
     <img src="Screenshot 2025-12-14 074007.png" usemap="#image-map">
 

@@ -44,7 +44,7 @@ map.html
 
 <body>
     <h1 style="text-align:center;">CHENNAI</h1>
-    <h3 style="text-align:center;">hassini M (25011392)</h3>
+    <h3 style="text-align:center;">hassini k (25011392)</h3>
 
     <img src="Screenshot 2025-12-14 074007.png" usemap="#image-map">
 
